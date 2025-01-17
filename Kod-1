@@ -15,7 +15,7 @@ max_wavelength = max(planet_wavelengths)
 min_wavenumber = wavelength_to_wavenumber(max_wavelength)
 max_wavenumber = wavelength_to_wavenumber(min_wavelength)
 
-fetch('H2O', 1, 1, min_wavenumber, max_wavenumber)  #İstediğiniz bileşiğin veya molekülün Molecul ID numarasını ReadMe'den alıp, spektroskopik analizinizi gerçekleştirbilirsiniz.
+fetch('H2O', 1, 1, min_wavenumber, max_wavenumber)  #İstediğiniz bileşiğin veya molekülün Molecul ID numarasını HiTRAN Line by Line bölümünden alıp spektroskopik analizinizi gerçekleştirebilirsiniz.
 # Molekül isminden sonraki değer molecul ID'dir.
 sys.stdout = io.StringIO()  
 select('H2O', ParameterNames=('nu', 'sw'), Conditions=('between', 'nu', min_wavenumber, max_wavenumber))
