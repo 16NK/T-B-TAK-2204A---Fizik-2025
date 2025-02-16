@@ -36,7 +36,7 @@ Bilgilerini girdiğiniz gezegenin akı değerinin en düşük olduğu dalga boyl
 Eğer seçilen molekül/bileşik gezegende tespit edilirse tespit edildiği nokta grafik üzerinde işaretlenir.
 
 ### Program çalıştırılır:
-1. Koddan aldığınız çıktıyı şu formatta giriniz: 1.90 - 1.91 µ1. Koddan aldığınız çıktıyı şu formatta giriniz: 1.90 - 1.91 µm 
+1. Koddan aldığınız çıktıyı şu formatta giriniz: 1.90 - 1.91 µm
 2. Koddan aldığınız çıktı içerisindeki Dalga boyu değerlerini virgül ile ayırarak boşluk bırakmadan giriniz.
 
 Örnek: Akı Değerinin En Düşük Olduğu Dalga Boyları:
