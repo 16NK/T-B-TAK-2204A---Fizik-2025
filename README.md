@@ -1,9 +1,11 @@
 # TÜBİTAK-2204A---Fizik-2025
 TÜBİTAK 2204-A Doğrudan Görüntüleme Yapılan Ötegezegenlerde Molekül ve Bileşiklerin Geçiş Yoğunlukları Üzerinden Spektroskopik Analiz Yazılımı başlıklı projeye ait kodların açıklamasıdır.
 ## 1. Kod 
-Bu kod, seçtiğiniz molekülün/bileşiğin verilerini indirir. <br><br>
-Yüksek geçiş yoğunluklarını belirler. <br><br>
-Çıktıları tablo ve grafik halinde kullanıcıya sunar. <br><br>
+Bu kod, seçtiğiniz molekülün/bileşiğin verilerini indirir. 
+
+Yüksek geçiş yoğunluklarını belirler. 
+
+Çıktıları tablo ve grafik halinde kullanıcıya sunar. 
 
 Not: Kod içerisinde bulunan yorum satırlarına göre analiz etmek istediğiniz molekülü/bileşiği değiştirebilirsiniz.
 ### Program çalıştırılır:
