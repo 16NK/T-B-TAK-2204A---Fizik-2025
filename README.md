@@ -36,9 +36,8 @@ Bilgilerini girdiğiniz gezegenin akı değerinin en düşük olduğu dalga boyl
 Eğer seçilen molekül/bileşik gezegende tespit edilirse tespit edildiği nokta grafik üzerinde işaretlenir.
 
 ### 3. Kod çalıştırılır:
-1. Koddan aldığınız çıktıyı şu formatta giriniz: 1.90 - 1.91 µm
-2. 
-3. Koddan aldığınız çıktı içerisindeki Dalga boyu değerlerini virgül ile ayırarak boşluk bırakmadan giriniz.
+- 1. Koddan aldığınız çıktıyı şu formatta giriniz: 1.90 - 1.91 µm
+- 2. Koddan aldığınız çıktı içerisindeki akı düşüşlerine denk gelen akı değerlerini virgül ile ayırarak boşluk bırakmadan giriniz.
 
 Örnek: Akı Değerinin En Düşük Olduğu Dalga Boyları:
 -Dalga Boyu: 1.9033 µm, Akı: 9.5808e-18
@@ -49,9 +48,9 @@ Eğer seçilen molekül/bileşik gezegende tespit edilirse tespit edildiği nokt
 
 Yukarıda 2. kod için örnek bir çıktı verilmiştir. 3. koda ikinci sırada vereceğiniz veriler şu formatta olmalıdır: 1.9033,1.9376,1.9977,2.0663,2.1074
 
-Ardından, NASA Exoplanet Archive Atmospheric Spectroscopy bölümünden seçtiğiniz doğrudan görüntüleme ile verisi alınan bir gezegenin dalga boyu (Central Wave. başlığının altındaki veriler) değerlerini giriniz. 
+- Ardından, NASA Exoplanet Archive Atmospheric Spectroscopy bölümünden seçtiğiniz doğrudan görüntüleme ile verisi alınan bir gezegenin dalga boyu (Central Wave. başlığının altındaki veriler) değerlerini giriniz. 
 
-Aynı gezegene ait akı (F_lambda başlığının altındaki veriler) değerlerini virgül ile ayırarak boşluk bırakmadan giriniz.
+- Aynı gezegene ait akı (F_lambda başlığının altındaki veriler) değerlerini virgül ile ayırarak boşluk bırakmadan giriniz.
 
 Bu iki başlıktan alınan verilerin sayısı aynı olmalıdır.
 
