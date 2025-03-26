@@ -1,9 +1,9 @@
 # TÜBİTAK-2204A---Fizik-2025
 TÜBİTAK 2204-A Doğrudan Görüntüleme Yapılan Ötegezegenlerde Molekül ve Bileşiklerin Geçiş Yoğunlukları Üzerinden Spektroskopik Analiz Yazılımı başlıklı projeye ait kodların açıklamasıdır.
 ## 1. Kod 
--Bu kod, seçtiğiniz molekülün/bileşiğin verilerini indirir. 
--Yüksek geçiş yoğunluklarını belirler. 
--Çıktıları tablo ve grafik halinde kullanıcıya sunar. 
+- Bu kod, seçtiğiniz molekülün/bileşiğin verilerini indirir. 
+- Yüksek geçiş yoğunluklarını belirler. 
+- Çıktıları tablo ve grafik halinde kullanıcıya sunar. 
 
 Not: Kod içerisinde bulunan yorum satırlarına göre analiz etmek istediğiniz molekülü/bileşiği değiştirebilirsiniz.
 ### 1. Kod çalıştırılır:
@@ -15,9 +15,9 @@ NASA Exoplanet Archive Atmospheric Spectroscopy bölümünden seçtiğiniz doğr
 Seçtiğiniz molekülün/bileşiğin geçiş yoğunluğunun en yüksek olduğu dalga boyu aralığını grafikte gösterir ve bu aralık değerini sayısal olarak ekrana yansıtır.
 
 ## 2. Kod
--Bu kod, gezegene ait verileri kullanıcıdan alır.
--Düşük akı noktalarını belirler.
--Çıktıları tablo ve grafik halinde kullanıcıya sunar.
+- Bu kod, gezegene ait verileri kullanıcıdan alır.
+- Düşük akı noktalarını belirler.
+- Çıktıları tablo ve grafik halinde kullanıcıya sunar.
 
 ### 2. Kod çalıştırılır:
 NASA Exoplanet Archive Atmospheric Spectroscopy bölümünden seçtiğiniz doğrudan görüntüleme ile verisi alınan bir gezegenin dalga boyu (Central Wave. başlığının altındaki veriler) değerlerini ve akı (F_lambda başlığının altındaki veriler) değerlerini virgül ile ayırarak boşluk bırakmadan sizden istediği sırayla giriniz.
@@ -36,15 +36,20 @@ Bilgilerini girdiğiniz gezegenin akı değerinin en düşük olduğu dalga boyl
 Eğer seçilen molekül/bileşik gezegende tespit edilirse tespit edildiği nokta grafik üzerinde işaretlenir.
 
 ### 3. Kod çalıştırılır:
-- 1. Koddan aldığınız çıktıyı şu formatta giriniz: 1.90 - 1.91 µm
-- 2. Koddan aldığınız çıktı içerisindeki akı düşüşlerine denk gelen akı değerlerini virgül ile ayırarak boşluk bırakmadan giriniz.
+- Birinci koddan aldığınız çıktıyı şu formatta giriniz: 1.90 - 1.91 µm
+- İkinci koddan aldığınız çıktı içerisindeki akı düşüşlerine denk gelen akı değerlerini virgül ile ayırarak boşluk bırakmadan giriniz.
 
 Örnek: Akı Değerinin En Düşük Olduğu Dalga Boyları:
--Dalga Boyu: 1.9033 µm, Akı: 9.5808e-18
--Dalga Boyu: 1.9376 µm, Akı: 0.0000e+00
--Dalga Boyu: 1.9977 µm, Akı: 1.4566e-17
--Dalga Boyu: 2.0663 µm, Akı: 3.4963e-17
--Dalga Boyu: 2.1074 µm, Akı: 3.5658e-17
+
+Dalga Boyu: 1.9033 µm, Akı: 9.5808e-18
+
+Dalga Boyu: 1.9376 µm, Akı: 0.0000e+00
+
+Dalga Boyu: 1.9977 µm, Akı: 1.4566e-17
+
+Dalga Boyu: 2.0663 µm, Akı: 3.4963e-17
+
+Dalga Boyu: 2.1074 µm, Akı: 3.5658e-17
 
 Yukarıda 2. kod için örnek bir çıktı verilmiştir. 3. koda ikinci sırada vereceğiniz veriler şu formatta olmalıdır: 1.9033,1.9376,1.9977,2.0663,2.1074
 
