@@ -32,8 +32,9 @@ Bu iki başlıktan alınan verilerin sayısı aynı olmalıdır.
 Bilgilerini girdiğiniz gezegenin akı değerinin en düşük olduğu dalga boylarını bir tablo halinde ekrana yansıtacak ve düşük akı değerlerini gezegenin spektrum grafiği üzerinde işaretlenmiş olarak gösterecektir.
 
 ## 3. Kod:
-1 ve 2. koddan gelen verileri analiz eder ve gezegende belirlenen molekülün/bileşiğin var olup olmadığını kullanıcıya sunar.
-Eğer seçilen molekül/bileşik gezegende tespit edilirse tespit edildiği nokta grafik üzerinde işaretlenir.
+- Birinci ve ikinci koddan gelen verileri analiz eder.
+- Gezegende belirlenen molekülün/bileşiğin var olup olmadığını kullanıcıya sunar.
+- Eğer seçilen molekül/bileşik gezegende tespit edilirse tespit edildiği nokta grafik üzerinde işaretlenir.
 
 ### 3. Kod çalıştırılır:
 - Birinci koddan aldığınız çıktıyı şu formatta giriniz: 1.90 - 1.91 µm
