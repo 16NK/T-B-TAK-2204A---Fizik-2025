@@ -30,6 +30,7 @@ Bu iki başlıktan alınan verilerin sayısı aynı olmalıdır.
 
 **2. Kodun çıktısı:**
 Bilgilerini girdiğiniz gezegenin akı değerinin en düşük olduğu dalga boylarını bir tablo halinde ekrana yansıtacak ve düşük akı değerlerini gezegenin spektrum grafiği üzerinde işaretlenmiş olarak gösterecektir.
+<img src="https://github.com/16NK/T-B-TAK-2204A---Fizik-2025/blob/main/H%C4%B1tran'dan%20Al%C4%B1nan%20H2O%20Ge%C3%A7i%C5%9F%20Yo%C4%9Funlu%C4%9Fu%20Spektrumu.png" width="%50">
 ![2. Kodun Çıktısı](https://github.com/16NK/T-B-TAK-2204A---Fizik-2025/blob/main/H%C4%B1tran'dan%20Al%C4%B1nan%20H2O%20Ge%C3%A7i%C5%9F%20Yo%C4%9Funlu%C4%9Fu%20Spektrumu.png)
 ## 3. Kod:
 - Birinci ve ikinci koddan gelen verileri analiz eder.
