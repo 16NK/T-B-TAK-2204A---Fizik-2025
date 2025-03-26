@@ -52,5 +52,5 @@ Aynı gezegene ait akı (F_lambda başlığının altındaki veriler) değerleri
 Bu iki başlıktan alınan verilerin sayısı aynı olmalıdır.
 
 **3. Kodun Çıktısı:**
-Eğer analiz ettiğiniz molekül/bileşik gezegende tespit edilirse alacağınız çıktı " Molekül/Bileşik tespit edildi!" olacak, tespit edildiği dalga boyu değeri ise ekrana yansıtılacaktır.
+Eğer analiz ettiğiniz molekül/bileşik gezegende tespit edilirse alacağınız çıktı " Molekül/Bileşik tespit edildi!" olacak, tespit edildiği dalga boyu değeri ise ekrana yansıtılacaktır. 
 Örnek çıktı: "Dalga Boyu: 1.9033 µm, bu aralıkta element tespit edildi!"
