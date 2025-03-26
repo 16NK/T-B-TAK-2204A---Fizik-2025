@@ -13,6 +13,7 @@ Not: Kod içerisinde bulunan yorum satırlarına göre analiz etmek istediğiniz
 
 **1. Kodun çıktısı:**
 Seçtiğiniz molekülün/bileşiğin geçiş yoğunluğunun en yüksek olduğu dalga boyu aralığını grafikte gösterir ve bu aralık değerini sayısal olarak ekrana yansıtır.
+
 ![1. Kodun Çıktısı](https://github.com/16NK/T-B-TAK-2204A---Fizik-2025/blob/main/Gezegen%20Spektrumu%20ve%20Ak%C4%B1%20D%C3%BC%C5%9F%C3%BC%C5%9F%20Noktalar%C4%B1.png)
 ## 2. Kod
 - Bu kod, gezegene ait verileri kullanıcıdan alır.
@@ -30,6 +31,7 @@ Bu iki başlıktan alınan verilerin sayısı aynı olmalıdır.
 
 **2. Kodun çıktısı:**
 Bilgilerini girdiğiniz gezegenin akı değerinin en düşük olduğu dalga boylarını bir tablo halinde ekrana yansıtacak ve düşük akı değerlerini gezegenin spektrum grafiği üzerinde işaretlenmiş olarak gösterecektir.
+
 ![2. Kodun Çıktısı](https://github.com/16NK/T-B-TAK-2204A---Fizik-2025/blob/main/H%C4%B1tran'dan%20Al%C4%B1nan%20H2O%20Ge%C3%A7i%C5%9F%20Yo%C4%9Funlu%C4%9Fu%20Spektrumu.png)
 ## 3. Kod:
 - Birinci ve ikinci koddan gelen verileri analiz eder.
