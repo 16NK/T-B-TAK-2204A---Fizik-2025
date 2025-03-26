@@ -7,7 +7,7 @@ TÜBİTAK 2204-A Doğrudan Görüntüleme Yapılan Ötegezegenlerde Molekül ve 
 
 Not: Kod içerisinde bulunan yorum satırlarına göre analiz etmek istediğiniz molekülü/bileşiği değiştirebilirsiniz.
 ### 1. Kod çalıştırılır:
-NASA Exoplanet Archive Atmospheric Spectroscopy bölümünden seçtiğiniz doğrudan görüntüleme ile verisi alınan bir gezegenin dalga boyu (Central Wave. Başlığı'nın altındaki veriler) değerlerini virgül ile ayırarak boşluk bırakmadan girmeniz istenir.
+[NASA Exoplanet Archive Atmospheric Spectroscopy](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/atmospheres/nph-firefly?atmospheres) bölümünden seçtiğiniz doğrudan görüntüleme ile verisi alınan bir gezegenin dalga boyu (Central Wave. Başlığı'nın altındaki veriler) değerlerini virgül ile ayırarak boşluk bırakmadan girmeniz istenir.
 
 Örnek: 1.88609,1.89468,1.90326,1.91184,1.92043,1.92901,1.93759,1.94618,1.95476,1.96335,1.97193,1.98051,1.9891,1.99768,2.00626,2.01485,2.02343,2.03202,2.0406,2.04918,2.05777,2.06635,2.07494,2.08352,2.0921,2.10069,2.10741,2.10927,2.11544
 
