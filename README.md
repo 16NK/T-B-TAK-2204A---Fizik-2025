@@ -13,7 +13,7 @@ NASA Exoplanet Archive Atmospheric Spectroscopy bölümünden seçtiğiniz doğr
 
 **1. Kodun çıktısı:**
 Seçtiğiniz molekülün/bileşiğin geçiş yoğunluğunun en yüksek olduğu dalga boyu aralığını grafikte gösterir ve bu aralık değerini sayısal olarak ekrana yansıtır.
-
+!(bakalım)[https://github.com/16NK/T-B-TAK-2204A---Fizik-2025/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-15%20020014.png]
 ## 2. Kod
 - Bu kod, gezegene ait verileri kullanıcıdan alır.
 - Düşük akı noktalarını belirler.
